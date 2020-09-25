@@ -4,7 +4,7 @@ Let’s Play GANs
 
 #### Lab Objective
 * In this lab, you need to implement a conditional GAN and generate synthetic images based on multi-labels conditions
-* Example of labels: [“cyan cylinder”, “red cube”], [“green sphere”], …
+* Example of labels: [“cyan cylinder”, “red cube”], [“green sphere”], …
 
 ![Objective](/picture/Objective.png "Objective")
 
@@ -69,6 +69,7 @@ Let’s Play GANs
   * readme.txt, train.json, test.json, object.json, iclevr.zip, evaluator.py, classifier_weight.pth
 * Iclver.zip
   * On the open source google drive lab6
+  * https://drive.google.com/drive/folders/1akxsLyI891XdhqAwUdGDFiejzfbXqUjc?usp=sharing
 * object.json
   * Dictionary of objects
   * 24 classes
