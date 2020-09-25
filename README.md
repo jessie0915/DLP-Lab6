@@ -1,5 +1,6 @@
 # DLP-Lab6
 Let’s Play GANs
+
 (The report please refer to DLP_LAB6_Report_0886035.pdf) 
 
 #### Lab Objective
